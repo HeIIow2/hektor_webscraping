@@ -1,0 +1,6 @@
+{
+  "sites": [["https://www.elle.de/", "elle"], ["https://www.vogue.de/", "voque"]],
+  "run if folder exists": true,
+  "delete failed requests": true,
+  "only subdomains": true
+}
